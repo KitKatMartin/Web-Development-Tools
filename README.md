@@ -9,6 +9,6 @@ Have some fun with cats... :)</p>
 ```
 <img src="http://lorempixel.com/400/200/cats/">
 ```
-to get this: 
+to get this random cat: 
 
-
+![Image of random cat](http://lorempixel.com/400/200/cats/)
