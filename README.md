@@ -2,7 +2,13 @@
 Tools I use, in one place. 
 
 # Placeholder Images
-Choose from a variety of image categories and set the image size you wish. 
-Have some fun with cats... :)
-*example *
 http://lorempixel.com/
+<p>Choose from a variety of image categories and set the image size you wish.
+Have some fun with cats... :)</p>
+<em>example: Add http://lorempixel.com/width/height/category/</em>
+```
+<img src="http://lorempixel.com/400/200/cats/">
+```
+to get this: 
+
+
